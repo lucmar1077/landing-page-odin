@@ -28,3 +28,48 @@
     text-decoration: none;
     color: #e5e7eb;
 }
+
+.main {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 63px;
+    padding: 100px 0px;
+}
+
+.copytext {
+    height: 250px;
+    width: 450px;
+}
+
+.copytext h1 {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #f9faf8;
+    margin-bottom: 10px;
+}
+
+.copytext p {
+    font-size: 18px;
+    color: #e5e7eb;
+    margin-bottom: 10px;
+}
+
+.copytext button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border: none;
+    border-radius: 6px;
+    padding: 6px 25px;
+}
+
+.main .placeholder {
+    width: 500px;
+    height: 225px;
+    background-color: gray;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
