@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
+}
+
+.navbar {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+
+.navbar h3 {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.navbar ul {
+    list-style-type: none;
+    display: flex;
+    gap: 24px;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    color: #e5e7eb;
+}
