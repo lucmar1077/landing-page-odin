@@ -134,3 +134,13 @@
     font-size: 18px;
     text-align: right;
 }
+
+
+
+
+.footer {
+    padding: 30px;
+    background-color: #1f2937;
+    color: #f9faf8;
+    text-align: center;
+}
